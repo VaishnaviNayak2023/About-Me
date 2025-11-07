@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/Frontend-Development-orange" />
   <img src="https://img.shields.io/badge/Product-Thinking-teal" />
   <img src="https://img.shields.io/badge/Design%20Systems-Figma-blueviolet" />
-  <img src="https://img.shields.io/badge/HTML-CSS-JavaScript-yellow" />
   <img src="https://img.shields.io/badge/PHP-API%20Integration-brightgreen" />
 </p>
 
@@ -29,10 +28,11 @@ I believe great design should feel effortless and serve both users and business 
 ## ⚙️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,figma,xd,react,git,github,vscode,tailwind,bootstrap,canva,notion,postman,sqlite,ai,ps" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,figma,react,git,github,vscode,tailwind,bootstrap,canva,notion,postman,sqlite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" width="50" />  
 </p>
 
-**Design & Prototyping:** Figma · Adobe XD · Photoshop · Illustrator · Canva  
+**Design & Prototyping:** Figma · Canva · Framer · Miro <br>
 **Frontend Development:** HTML · CSS · JavaScript · React · Bootstrap · Tailwind CSS  
 **Backend & Tools:** PHP · APIs · SQLite · Postman  
 **Collaboration & Productivity:** Git · GitHub · Notion · VS Code  
