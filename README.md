@@ -43,8 +43,8 @@ I believe great design should feel effortless and serve both users and business 
 
 | Project | Description |
 |----------|-------------|
-| **SkillConnect** | An education hub built using HTML, CSS, JavaScript, PHP, and APIs — connecting learners and educators through an intuitive interface. |
-| **Ecolink** | A web platform for collecting, validating, and visualizing environmental data from field reports and sensors. Supports incident reporting, geolocated maps, CSV uploads, automated alerts, and downloadable compliance reports for agencies. |
+| **SkillConnect - Education Hub** | An education hub built using HTML, CSS, JavaScript, PHP, and APIs — connecting learners and educators through an intuitive interface. |
+| **Ecolink - Environmental Reporting System** | A web platform for collecting, validating, and visualizing environmental data from field reports and sensors. Supports incident reporting, geolocated maps, CSV uploads, automated alerts, and downloadable compliance reports for agencies. |
 | **GradeAI - Auto Grading AI Bot** | (In progress) An AI-powered automated grading system currently under development. It evaluates student submissions (code, essays, and quizzes) using rubric-based logic and natural-language feedback generation. The system integrates with learning platforms, runs test cases in a secure sandbox, and generates analytics for educators. |
 
 Explore more in my [repositories »](https://github.com/VaishnaviNayak2023)
