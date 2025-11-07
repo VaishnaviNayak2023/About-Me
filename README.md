@@ -57,10 +57,10 @@ Explore more in my [repositories »](https://github.com/VaishnaviNayak2023)
   <a href="https://www.linkedin.com/in/vaishnavi-nayak-a100a7314/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Vaishnavi%20Nayak-blue?logo=linkedin" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:nayakvaishnavi019@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail" />
   </a>
-  <a href="https://github.com/vaishnavinayak" target="_blank">
+  <a href="https://github.com/VaishnaviNayak2023" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Vaishnavi%20Nayak-black?logo=github" />
   </a>
 </p>
